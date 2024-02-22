@@ -49,7 +49,7 @@ Copy code
     <a href="https://www.instagram.com/umarylandigem/">
         <img class="image" src="your_image.jpg" alt="Your Image">
         <div class="overlay">
-           <img class="instagram-logo" src="path/to/instagram_logo.png" alt="Instagram Logo">
+           <img src="https://instagram.fdla2-1.fna.fbcdn.net/v/t51.2885-15/e35/c73.0.554.554a/s150x150/105044346_127329445667781_2507554452160017737_n.jpg?_nc_ht=instagram.fdla2-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=Z6GCQyBWc5AAX8UqqUO&oh=10de7d78b17ad97d292104e42b2bbce7&oe=5F175C4E" alt="instagram">
         </div>
     </a>
 </div>
