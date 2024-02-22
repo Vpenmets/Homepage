@@ -1,5 +1,4 @@
 
-Copy code
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,7 +45,10 @@ Copy code
 <body>
 
 <div class="container">
-    <img src="instagram.fdla2-1.fna.fbcdn.net/v/t51.2885-15/e35/…" alt="instagram"> 
+    <a href="https://www.instagram.com/umarylandigem/">
+        <img class="image" src="Instagram_logo_2016.svg.png" alt="Your Image">
+        <div class="overlay">
+            <img class="instagram-logo" src="instagram_logo.png" alt="Instagram Logo">
         </div>
     </a>
 </div>
