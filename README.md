@@ -2,9 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<div align ="left">
-<a href="https://www.instagram.com/umarylandigem/" HEIGHT=50<img src= https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
-HEIGHT=50></a>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Clickable Image with Instagram Logo</title>
