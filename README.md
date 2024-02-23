@@ -154,7 +154,7 @@
     <a href="https://www.instagram.com/umarylandigem/">
         
         <div class="overlay">
-            <img class="instagram-logo" src="Instagram_icon.jpg" alt="Instagram Logo">
+            <img class="instagram-logo" src="[Instagram_icon.jpg](https://github.com/Vpenmets/Homepage/blob/main/Instagram_icon.png)" alt="Instagram Logo">
         </div>
     </a>
 </div>
