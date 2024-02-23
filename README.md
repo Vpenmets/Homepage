@@ -49,7 +49,8 @@ HEIGHT=50></a>
 
 <div class="container">
     <a href="https://www.instagram.com/umarylandigem/">
-        <img class="image" src="Instagram_logo_2016.svg.png" alt="Your Image">
+        <img class="HEIGHT=50<img src= https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+HEIGHT=50></a>>
         <div class="overlay">
             <img class="instagram-logo" src="instagram_logo.png" alt="Instagram Logo">
         </div>
