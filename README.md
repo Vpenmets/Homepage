@@ -45,7 +45,7 @@
 
 <div class="container">
         <a href="https://www.instagram.com/umarylandigem/">
-        <img class="image" src="Instagram_icon.png" alt="Instagram Icon">
+       
         <div class="overlay">
             <img class="instagram-logo" src="path/to/instagram_logo.png" alt="Instagram Logo">
         </div>
