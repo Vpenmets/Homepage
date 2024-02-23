@@ -11,7 +11,7 @@
         max-width: 500px; /* Adjust as needed */
     }
     .image {
-        width: 100%;
+        width: 50%;
         height: auto;
     }
     .overlay {
