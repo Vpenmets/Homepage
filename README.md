@@ -20,24 +20,24 @@
         bottom: 0;
         left: 0;
         right: 0;
-        background-color: transparent; /* Change to desired color */
-        opacity: 0; /* Initially transparent */
+        background-color: transparent;
+        opacity: 0; 
         cursor: pointer;
     }
     .overlay:hover {
-        opacity: 0.5; /* Change opacity on hover */
+        opacity: 0.5; 
     }
     .instagram-logo {
         position: absolute;
         top: 50%;
         left: 50%;
         transform: translate(-50%, -50%);
-        width: 50px; /* Adjust the size of the logo as needed */
+        width: 50px; 
         height: auto;
-        display: none; /* Initially hidden */
+        display: none; 
     }
     .overlay:hover .instagram-logo {
-        display: block; /* Show the logo on overlay hover */
+        display: block;
     }
 </style>
 </head>
