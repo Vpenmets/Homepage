@@ -152,7 +152,7 @@
 
 <div class="container">
     <a href="https://www.instagram.com/umarylandigem/">
-        <img class="
+        
         <div class="overlay">
             <img class="instagram-logo" src="Instagram_icon.jpg" alt="Instagram Logo">
         </div>
@@ -162,10 +162,7 @@
 </body>
 </html>
 
-        <div class="overlay">
-            <img class="instagram-logo" src="instagram_logo.png" alt="Instagram Logo">
-        </div>
-    </a>
+        
 </div>
 
 </body>
