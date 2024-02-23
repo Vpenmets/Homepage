@@ -11,8 +11,9 @@
         max-width: 500px; /* Adjust as needed */
     }
     .image {
-        width: 50%;
-        height: auto;
+        width: 10;
+        height: 5;
+        
     }
     .overlay {
         position: absolute;
@@ -46,8 +47,7 @@
 <div class="container">
         <a href="https://www.instagram.com/umarylandigem/">
         <img class="image" src="Instagram_icon.png" alt="Instagram Icon">
-            width = "10"
-            height = "5"/>
+           
         <div class="overlay">
         
             
